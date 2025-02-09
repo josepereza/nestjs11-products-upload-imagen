@@ -25,7 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-## Backend
+## Frontend
 * https://github.com/josepereza/angular19-productos-upload-imagen-simple.git
 ## Installation
 
